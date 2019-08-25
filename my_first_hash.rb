@@ -1,6 +1,5 @@
 def my_hash
- 
-your_hash = {:key => "value"}
+
 
 my_hash
   
