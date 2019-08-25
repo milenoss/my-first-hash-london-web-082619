@@ -1,6 +1,6 @@
 def my_hash
 hash = { "key" => "value"}
-my_hash
+hash
 end
 
 
